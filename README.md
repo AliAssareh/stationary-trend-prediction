@@ -1,6 +1,6 @@
 # Deep Learning for High-Frequency Cryptocurrency Trend Detection
 
-This repository contains the code and datasets used in the research paper titled "Deep Learning for High-Frequency Cryptocurrency Trend Detection: Incorporating Technical Indicators and A New Approach For Data Stationarity". Our study focuses on developing deep learning models to predict cryptocurrency trends with high accuracy, leveraging technical indicators and a novel approach for data stationarity.
+This repository contains the code and datasets used in the research paper titled "Deep High-Frequency Cryptocurrency Trend Detection: An Approach For Data Stationarity". Our study focuses on developing deep learning models to predict cryptocurrency trends with high accuracy, leveraging technical indicators and a novel approach for data stationarity.
 
 ## Table of Contents
 
@@ -56,4 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you use the code or data from this repository in your research, please cite our paper as follows:
 
-citation key would be included here once the paper is accepted please keep visiting.
+[citation key](https://dx.doi.org/10.2139/ssrn.4796336)
