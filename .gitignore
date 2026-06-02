@@ -4,3 +4,5 @@ __init__.py
 /.ipynb_checkpoints/README-checkpoint.md
 /venv
 Data/
+.vscode/
+.venv/
